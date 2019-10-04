@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+ <fields>
+   <field name="id"></field>
+   <field name="surname"></field>
+   <field name="name"></field>
+   <field name="email"></field>
+   <field name="phone"></field>
+ </fields>
+
+<records>
+  <record><cell>1</cell><cell >Di Matteo</cell> <cell >Fabio</cell><cell >fabio@localhost</cell><cell >87329487</cell></record>
+  <record><cell>2</cell><cell >Di Matteo</cell> <cell >Chester</cell><cell >chester@localhost</cell><cell >0000</cell></record>
+  ...
+</records>
+</query>
